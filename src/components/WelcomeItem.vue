@@ -17,6 +17,7 @@
   margin-top: 2rem;
   display: flex;
   position: relative;
+  background-color: blue;
 }
 
 .details {

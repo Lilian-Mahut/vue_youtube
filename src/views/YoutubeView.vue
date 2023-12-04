@@ -1,15 +1,11 @@
 <script setup lang="ts">
-import HeaderNavBar from '../components/HeaderNavBar.vue'
-// import VideoPlaying from '../components/VideoPlaying.vue'
-// import AnotherVideos from '../components/AnotherVideos.vue'
+import HelloWorld from '../components/HelloWorld.vue'
+// import TheNavBar from '../components/TheNavBar.vue'
 </script>
 
 <template>
-  <header>
-    <HeaderNavBar />
-  </header>
   <main>
-    <section></section>
-    <aside></aside>
+    <!-- <HelloWorld /> -->
+    <p>TEST</p>
   </main>
 </template>
